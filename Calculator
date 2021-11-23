@@ -1,0 +1,4 @@
+int a, b, sum, diff
+read a, b
+sum=a+b
+display sum
